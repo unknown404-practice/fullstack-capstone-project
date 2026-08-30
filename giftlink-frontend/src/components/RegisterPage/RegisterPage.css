@@ -1,0 +1,30 @@
+.register-card {
+    background-color: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.register-card h2 {
+    color: #2c3e50;
+}
+
+.register-card label {
+    font-weight: 600;
+    color: #555;
+    margin-top: 10px;
+}
+
+.register-card .btn-primary {
+    background-color: #ff6b6b;
+    border-color: #ff6b6b;
+    font-weight: 700;
+}
+
+.register-card .btn-primary:hover {
+    background-color: #e05555;
+    border-color: #e05555;
+}
+
+.register-card a {
+    text-decoration: none;
+    font-weight: 600;
+}
